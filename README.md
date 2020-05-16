@@ -9,3 +9,4 @@ Streamed in over 190 countries, Netflix has an extensive global content libraryf
 
 While I’m certain that Netflix has a more robust machine learning process for their recommendation system(Netflix), my project is aimed at exploring the Cosine Similarity algorithm as a process possibility.
 
+Dataset can be found here: https://www.kaggle.com/shivamb/netflix-shows
